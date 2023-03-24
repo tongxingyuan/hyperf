@@ -1,0 +1,10 @@
+
+# ignore directories.
+
+vendor/
+
+.idea/
+
+# ignore files.
+
+composer.lock

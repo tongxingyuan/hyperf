@@ -1,0 +1,27 @@
+{
+  "name": "guanbang/hyperf",
+  "type": "project",
+  "keywords": [
+    "php",
+    "swoole",
+    "framework",
+    "hyperf"
+  ],
+  "description": "Utilities for hyperf",
+  "license": "Apache-2.0",
+  "require": {
+    "hyperf/paginator": "^3.0",
+    "hyperf/config": "~3.0.0",
+    "hyperf/di": "~3.0.0",
+    "hyperf/framework": "~3.0.0",
+    "hyperf/http-server": "~3.0.0",
+    "hyperf/logger": "~3.0.0",
+    "hyperf/model-cache": "~3.0.0"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "GuanbangHyperf\\": "./src/"
+    }
+  }
+}
