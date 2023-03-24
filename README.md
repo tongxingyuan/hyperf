@@ -3,7 +3,7 @@
 ### Install
 
 ```
-composer require guzzlehttp/guzzle
+composer require tongxingyuan/hyper
 ```
 
 > IN `composer.json` configured
