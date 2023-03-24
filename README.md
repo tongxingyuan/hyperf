@@ -3,7 +3,7 @@
 ### Install
 
 ```
-composer require tongxingyuan/hyper
+composer require tongxingyuan/hyperf
 ```
 
 > IN `composer.json` configured
@@ -11,7 +11,7 @@ composer require tongxingyuan/hyper
 ````json
 {
   "require": {
-    "tongxingyuan/hyper": "^1.0"
+    "tongxingyuan/hyperf": "^1.0"
   }
 }
 ````
