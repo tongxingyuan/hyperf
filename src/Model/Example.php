@@ -1,6 +1,6 @@
 <?php
 
-namespace Tongxingyuna\Hyperf\Model;
+namespace Tongxingyuan\Hyperf\Model;
 
 /**
  * 示例模型.

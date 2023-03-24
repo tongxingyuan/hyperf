@@ -1,6 +1,6 @@
 <?php
 
-namespace Tongxingyuna\Hyperf\Model;
+namespace Tongxingyuan\Hyperf\Model;
 
 
 use Hyperf\DbConnection\Model\Model as BaseModel;
