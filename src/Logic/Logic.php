@@ -10,7 +10,7 @@ declare(strict_types=1);
  * @license  https://github.com/hyperf/hyperf/blob/master/LICENSE
  */
 
-namespace GuanbangHyperf\Logic;
+namespace Tongxingyuna\Hyperf\Logic;
 
 use Hyperf\Contract\Arrayable;
 use Hyperf\Contract\Jsonable;

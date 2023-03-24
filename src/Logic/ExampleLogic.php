@@ -1,6 +1,6 @@
 <?php
 
-namespace GuanbangHyperf\Logic;
+namespace Tongxingyuna\Hyperf\Logic;
 
 use Hyperf\HttpServer\Contract\RequestInterface;
 use Hyperf\HttpServer\Contract\ResponseInterface;

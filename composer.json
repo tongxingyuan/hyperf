@@ -1,5 +1,5 @@
 {
-  "name": "guanbang/hyperf",
+  "name": "tongxingyuan/hyperf",
   "type": "project",
   "keywords": [
     "php",
@@ -21,7 +21,7 @@
   "require-dev": {},
   "autoload": {
     "psr-4": {
-      "GuanbangHyperf\\": "./src/"
+      "Tongxingyuna\\Hyperf\\": "./src/"
     }
   }
 }
